@@ -25,7 +25,7 @@ class ImageListScreenState extends State<ImageListScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'List of Images',
+          'Photo Details App',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.blueAccent,

@@ -12,7 +12,7 @@ class ImageDetails extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Image Details',
+          'Photo Details',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.blueAccent,
